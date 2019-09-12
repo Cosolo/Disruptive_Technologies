@@ -6,8 +6,8 @@ Communities and crime dataset and description: http://archive.ics.uci.edu/ml/dat
 # Main idea
 Main idea is to make prediction for several cases :
 
-## Case 1 : Try to predict missing data about police officers and see is there any impact on target variable.
-## Case : Create dummy variable for 1 if there is more than 100 pollice officers in population , 0 less then 100.
+***Case 1 : Try to predict missing data about police officers and see is there any impact on target variable.*** 
+***Case : Create dummy variable for 1 if there is more than 100 pollice officers in population , 0 less then 100.***
 
 In the end compare those two predictions!
 
